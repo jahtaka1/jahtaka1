@@ -1,5 +1,5 @@
 [![Header](https://github.com/jahtaka1/jahtaka1/blob/main/assets/Frame%20635%20(3).png)](https://t.me/jahtaka1995)
-## I'm a QA Engineer.  
+## I'm a QA Engineer from Siberia.  
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1StHdGeNVWD0i5u0a4h8h9KiuA1z6NJgzrOVDwkxz4EU/edit?usp=share_link)
 
