@@ -1,4 +1,4 @@
-[![Header](https://github.com/jahtaka1/jahtaka1/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/jahtaka1/jahtaka1/blob/main/assets/Frame%20635%20(3).png)](https://t.me/jahtaka1995)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
