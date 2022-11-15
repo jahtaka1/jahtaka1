@@ -25,8 +25,9 @@
 - [Mobile Apps Testing](https://github.com/jahtaka1/Mobile-Apps-Testing.git)
 - [Web Testing](https://github.com/jahtaka1/Web-testing.git)
 - [Data Bases. SQL queries](https://github.com/jahtaka1/Data-Bases.-SQL-queries.git)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [API Testing](https://github.com/jahtaka1/API-testing.git)
+- [Test Design](https://github.com/jahtaka1/Test-Design.git)
+- [Testing Theory](https://github.com/jahtaka1/Testing-theory.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/jahtaka1995)
