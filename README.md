@@ -20,11 +20,11 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Testing Artefacts
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Mobile Apps Testing](https://github.com/jahtaka1/Mobile-Apps-Testing.git)
+- [Web Testing](https://github.com/jahtaka1/Web-testing.git)
+- [Data Bases. SQL queries](https://github.com/jahtaka1/Data-Bases.-SQL-queries.git)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
