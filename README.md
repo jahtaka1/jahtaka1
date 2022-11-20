@@ -21,7 +21,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Artefacts
-
+- [Bash] (https://github.com/jahtaka1/Bash)
 - [Mobile Apps Testing](https://github.com/jahtaka1/Mobile-Apps-Testing.git)
 - [Web Testing](https://github.com/jahtaka1/Web-testing.git)
 - [Data Bases. SQL queries](https://github.com/jahtaka1/Data-Bases.-SQL-queries.git)
